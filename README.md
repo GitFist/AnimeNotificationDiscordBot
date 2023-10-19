@@ -1,5 +1,5 @@
-#DOWNLOAD THE WINDOWS VERSION FROM RELEASES
-# Anime Notification Discord Bot
+### DOWNLOAD THE WINDOWS VERSION FROM RELEASES
+# Anime Notification Discord Botf
 
 This is an Anime Discord bot that is built using the disnake library and it's using the Anilist, MyAnimeListAPI, JikanAPI libraries. It allows you to track anime airing episodes and notified when a new episode releases, or keep track of the anime you are watching, and displays how long it will take a new episode to come out.
 
